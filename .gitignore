@@ -1,0 +1,5 @@
+env
+.env
+compose.yaml
+__pycache__
+app.db
